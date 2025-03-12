@@ -180,3 +180,10 @@ Key Features and Functionalities
 - Improves User Experience: Incorporates trending technologies and functionalities.
 - Drives Business Growth: Aligns software with market demands and opportunities.
 
+
+Referencing 
+1. Project Management Institute. (2020). A Guide to the Project Management Body of Knowledge (PMBOK Guide).
+2. Agile Alliance. (n.d.). Agile 101. Retrieved from (link unavailable)
+3. International Institute of Business Analysis. (2015). A Guide to the Business Analysis Body of Knowledge (BABOK Guide).
+4. IEEE Computer Society. (2018). IEEE Standard for Software and System Test Documentation (IEEE Std 829-2008).
+5. Gantt, H. L. (1910). Work, Wages, and Profit. The Engineering Magazine.
